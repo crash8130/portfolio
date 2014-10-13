@@ -1,0 +1,27 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+
+
+}
+.title{
+	background-color: #33BEBE;
+	padding-top: 50px;
+	padding-left: 20px;
+
+}
+
+.app{
+
+	display: flex;
+}
+.picture {
+
+	max-width: 460px;
+}
+.discription {
+	max-width: 705px;
+	padding-left: 50px;
+}
